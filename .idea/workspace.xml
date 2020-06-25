@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f94ec37a-525f-4fa2-b798-bb216bb7ae6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dUBUoI7TVLH7oxVjpsgTcW5ide" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Solution_2">
+    <configuration name="MyHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashDemo.MyHashMap" />
+      <module name="AlgorithmDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashDemo.MyHashSet" />
+      <module name="AlgorithmDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashDemo.Solution_2" />
+      <module name="AlgorithmDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayDemo.Solution_4" />
+      <module name="AlgorithmDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayDemo.Solution_6" />
+      <module name="AlgorithmDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution_2" />
+        <item itemvalue="Application.MyHashMap" />
+        <item itemvalue="Application.MyHashSet" />
+        <item itemvalue="Application.Solution_6" />
+        <item itemvalue="Application.Solution_4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f94ec37a-525f-4fa2-b798-bb216bb7ae6c" name="Default Changelist" comment="" />
+      <created>1592469809732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592469809732</updated>
+      <workItem from="1592469814891" duration="3148000" />
+      <workItem from="1592485231955" duration="3251000" />
+      <workItem from="1592531537820" duration="5613000" />
+      <workItem from="1592617775230" duration="68000" />
+      <workItem from="1592897107036" duration="6923000" />
+      <workItem from="1592915708576" duration="988000" />
+      <workItem from="1592918220182" duration="3118000" />
+      <workItem from="1593060430033" duration="2624000" />
+      <workItem from="1593070263380" duration="4964000" />
+      <workItem from="1593089453025" duration="397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1033" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592915935595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1033" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1592915935595" />
+    <state width="1493" height="239" key="GridCell.Tab.0.bottom" timestamp="1593075700761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593075700761" />
+    <state width="1493" height="239" key="GridCell.Tab.0.center" timestamp="1593075700761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593075700761" />
+    <state width="1493" height="239" key="GridCell.Tab.0.left" timestamp="1593075700761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593075700761" />
+    <state width="1493" height="239" key="GridCell.Tab.0.right" timestamp="1593075700761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="239" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593075700761" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1593063099824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593063099824" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1593063099824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593063099824" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1593063099824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593063099824" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1593063099824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593063099824" />
+    <state x="179" y="150" width="561" height="524" key="StructurePopup" timestamp="1592485534906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="179" y="150" width="561" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1592485534906" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/StringDemo/StringApi.java</url>
+          <line>4</line>
+          <properties class="StringDemo.StringApi" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
