@@ -36,5 +36,6 @@ public class HashMapDemo {
         if (hashMap.isEmpty()) {
             System.out.println("hash map is empty now!");
         }
+
     }
 }
