@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f94ec37a-525f-4fa2-b798-bb216bb7ae6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/recursiondemo/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursiondemo/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursiondemo/Solution_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/Solution_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,7 +138,8 @@
       <workItem from="1593830470945" duration="26000" />
       <workItem from="1594038838078" duration="5795000" />
       <workItem from="1594104611419" duration="7576000" />
-      <workItem from="1594257357603" duration="5359000" />
+      <workItem from="1594257357603" duration="5683000" />
+      <workItem from="1594279587857" duration="3394000" />
     </task>
     <servers />
   </component>
